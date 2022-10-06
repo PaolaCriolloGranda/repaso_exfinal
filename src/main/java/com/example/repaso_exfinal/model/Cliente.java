@@ -19,6 +19,6 @@ public class Cliente {
     }
 
     public Cliente() {
-    }//nfgnfgnfg
-//xbshcbshjbc
+    }
+
 }
